@@ -2,7 +2,7 @@ Developpeur web autodidacte, je realise des sites web pour passer le temps.
 
 
 
-- 🔭 Je travaille actuellement sur un site web d'actualite de jeux videos (https://www.simul-actu.com)
+- 🔭 Je travaille actuellement sur un site web pour une chaine YouTube (https://www.team-lfd.fr/)
 
 - 💬 Je parle de jeux videos et de web en live sur YouTube et Twitch
 
